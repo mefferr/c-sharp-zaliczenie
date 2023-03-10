@@ -1,5 +1,6 @@
 Twoim zadaniem jest sterowanie "O" i unikanie spadających z góry przeciwników "XXX", poruszając się strzałkami w lewo i prawo.
 
+
 Instrukcje gry:
 
 1. Uruchom grę, aby rozpocząć.
