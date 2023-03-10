@@ -4,7 +4,7 @@ using System.Collections.Generic;
 
 namespace ConsoleGame
 {
-    // klasa bazowa dla wszystkich objektow gry
+    // klasa bazowa dla wszystkich obiektow gry
     public abstract class GameObject
     {
         protected int x;
@@ -160,7 +160,7 @@ namespace ConsoleGame
         {
             while (!gameOver)
             {
-                // aktualizowanie objektów gry
+                // aktualizowanie obiektów gry
                 foreach (GameObject obj in gameObjects)
                 {
                     obj.Update();
@@ -169,7 +169,7 @@ namespace ConsoleGame
                 // sprawdzanie kolizji
                 CheckCollisions();
 
-                // rysowanie objektów gry
+                // rysowanie obiektów gry
                 Console.Clear();
                 foreach (GameObject obj in gameObjects)
                 {
@@ -221,7 +221,7 @@ namespace ConsoleGame
                 }
             }
 
-            // usuwanie zniszczonych objektów
+            // usuwanie zniszczonych obiektów
             gameObjects.RemoveAll(obj => obj is Enemy && obj.GetY() >= Console.WindowHeight);
         }
 
