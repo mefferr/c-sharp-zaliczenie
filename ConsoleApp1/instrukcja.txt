@@ -1,5 +1,8 @@
 Twoim zadaniem jest sterowanie "O" i unikanie spadających z góry przeciwników "XXX", poruszając się strzałkami w lewo i prawo.
 
+język: c#
+Grafika: Gra korzysta z grafiki 2D, która jest wyświetlana w konsoli systemowej.
+
 
 Instrukcje gry:
 
