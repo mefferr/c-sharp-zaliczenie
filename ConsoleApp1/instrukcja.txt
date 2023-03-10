@@ -2,8 +2,8 @@ Twoim zadaniem jest sterowanie "O" i unikanie spadających z góry przeciwników
 
 Instrukcje gry:
 
-Uruchom grę, aby rozpocząć.
-Steruj swoją postacią, używając strzałki w lewo i prawo na klawiaturze. Przytrzymaj strzałkę, aby poruszać się szybciej.
-Twoim celem jest unikanie spadających przeciwników "XXX". Przeciwnicy poruszają się w różne strony, więc uważaj na ich pojawianie się.
-Za omijanie przeciwników dostajesz punkty.
-Jeśli stracisz wszystkie życia, przegrywasz grę.
+1. Uruchom grę, aby rozpocząć.
+2. Steruj swoją postacią, używając strzałki w lewo i prawo na klawiaturze. Przytrzymaj strzałkę, aby poruszać się szybciej.
+3. Twoim celem jest unikanie spadających przeciwników "XXX". Przeciwnicy poruszają się w różne strony, więc uważaj na ich pojawianie się.
+4. Za omijanie przeciwników dostajesz punkty.
+5. Jeśli stracisz wszystkie życia, przegrywasz grę.
